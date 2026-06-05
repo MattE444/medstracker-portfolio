@@ -66,4 +66,9 @@ Lambda
 - Improve printable summary layouts
 - AI?  Quarterly summaries?
 
+## Lessons Learned
+During development I encountered and resolved challenges involving CORS configuration, API Gateway routing, Lambda  
+permissions, DynamoDB access policies, S3 uploads, report formatting, and browser printing behavior. Building the  
+project end-to-end significantly improved my understanding of AWS serverless architectures and application troubleshooting.
+
 
